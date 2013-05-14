@@ -4,8 +4,8 @@ Overview
 -------------
 A collection of common machine learning algorithm implemented in python, and I am trying to plot them out for visualization. The following algorithms are included:  
 
-* Linear classification (MLP, Perceptron Algorithm, LMS Algorithm, etc)
-* Clustering (K-means, )
+* Linear classification (MSE, Perceptron Algorithm, LMS Algorithm, etc)
+* Cluster(K-means, )
 
 Requirements
 ---------------

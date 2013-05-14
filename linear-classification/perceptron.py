@@ -2,8 +2,10 @@
 # -*- coding=UTF-8 -*-
 
 import copy as cp
+import matplotlib.pyplot as plt
+import numpy as np
 
-from data import *
+from data import x1, x2, y1, y2, inputs, targets 
 
 # Since Loss function is:
 #     Loss(w) = sum( sign(Xw)*(Xw-target))   X belongs to misclassified datapoint

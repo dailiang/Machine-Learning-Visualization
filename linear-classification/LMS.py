@@ -2,6 +2,8 @@
 # -*- coding=UTF-8 -*-
 
 import copy as cp
+import matplotlib.pyplot as plt
+import numpy as np
 
 from data import *
 
